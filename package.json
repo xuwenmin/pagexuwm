@@ -1,25 +1,23 @@
 {
   "name": "pagexuwm",
-  "version": "0.0.2",
-  "description": "this is test for pake node",
+  "version": "1.0.1",
+  "description": "this  is a test for module",
   "main": "index.js",
-  "homepage": "https://github.com/xuwenmin/pagexuwm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/xuwenmin/pagexuwm.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": "",
   "keywords": [
-    "pake"
+    "page"
   ],
   "author": {
-    "name": "xuwm"
+    "name": "xuwenmin"
   },
   "license": "BSD",
-  "_id": "pagexuwm@0.0.1",
+  "_id": "pagexuwm@1.0.1",
   "readme": "ERROR: No README.md file found!",
   "_from": "pagexuwm"
 }
