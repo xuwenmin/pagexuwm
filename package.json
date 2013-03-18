@@ -1,6 +1,6 @@
 {
   "name": "pagexuwm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this  is a test for module",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "name": "xuwenmin"
   },
   "license": "BSD",
-  "_id": "pagexuwm@1.0.1",
+  "_id": "pagexuwm@1.0.2",
   "readme": "ERROR: No README.md file found!",
   "_from": "pagexuwm"
 }
