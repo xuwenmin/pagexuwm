@@ -1,23 +1,18 @@
 {
   "name": "pagexuwm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "this  is a test for module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/xuwenmin/pagexuwm.git"
-  },
+  "repository": {"git://github.com/xuwenmin/pagexuwm.git"},
   "keywords": [
     "page"
   ],
-  "author": {
-    "name": "xuwenmin"
-  },
+  "author": "xuwenmin <151481184@qq.com>",
   "license": "BSD",
-  "_id": "pagexuwm@1.0.2",
+  "_id": "pagexuwm@1.0.3",
   "readme": "ERROR: No README.md file found!",
   "_from": "pagexuwm"
 }
